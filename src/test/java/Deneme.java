@@ -6,6 +6,7 @@ public class Deneme {
         //GitHub
         //GitHub 2.deneme
         //Ceren deneme
+        //Yeni
     }
 }
 //Restore --> Tamamen Working Space'i temizler.
