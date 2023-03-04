@@ -15,9 +15,7 @@ public class Deneme {
         System.out.println("BEN  MUSTAFA  MERHABA ARKADASLAR  ");//  MUSTAFA
 
 
-
-
-
+        System.out.println(" kepe");
     }
 }
 //Restore --> Tamamen Working Space'i temizler.
